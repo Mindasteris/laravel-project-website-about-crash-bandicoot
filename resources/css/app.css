@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+@font-face {
+    font-family: 'crashInsane';
+    src: url('/fonts/Zoinks Regular/CCZoinks\ Regular.ttf');
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
